@@ -9,15 +9,15 @@ Quasar App Extension qs-card
 4- crie sua biblioteca;
 5- adicione no yarn link abrindo o terminal e digitando: yarn link;
 6- publique no npm, caso não tenha uma conta ativa, crie e ao final para publicar de esse comando: 
-npm publish --access=public
+npm publish --access=public.
 
-# Instalar no projeto / atualizar
 ```bash
-quasar ext add qs-card
 ```
-Quasar CLI will retrieve it from the NPM registry and install the extension to your project.
 
-
+# instalar
+```bash
+quasar ext add qs-card ou npm i quasar-app-extension-qs-card(recomendado)
+```
 
 # desinstalar
 ```bash
