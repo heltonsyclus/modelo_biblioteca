@@ -20,7 +20,7 @@ quasar ext add qs-card ou npm i quasar-app-extension-qs-card(recomendado)
 
 # desinstalar
 ```bash
-quasar ext remove qs-card
+quasar ext remove qs-card ou  npm uninstall quasar-app-extension-qs-card(recomendado)
 ```
 
 # Info
