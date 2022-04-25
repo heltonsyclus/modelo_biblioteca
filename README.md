@@ -1,15 +1,9 @@
 Quasar App Extension qs-card
 ===
 
-_Be sure to change this readme as appropriate for your app extension._
 
-_Think about the organization of this file and how the information will be beneficial to the user._
 
-> Add a short description of your App Extension. What does it do? How is it beneficial? Why would someone want to use it?
-
-A Quasar Project
-
-# Install
+# Instalar no projeto
 ```bash
 quasar ext add qs-card
 ```
@@ -21,7 +15,7 @@ Quasar CLI will retrieve it from the NPM registry and install the extension to y
 > Explain the prompts here
 
 
-# Uninstall
+# desinstalar
 ```bash
 quasar ext remove qs-card
 ```
