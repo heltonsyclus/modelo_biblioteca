@@ -1,0 +1,27 @@
+{
+  "name": "quasar-app-extension-qs-card",
+  "version": "0.0.9",
+  "description": "A Quasar Project",
+  "author": "helton <heltonsyclus@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "keywords": [
+    "quasar",
+    "quasar-framework",
+    "quasar-app-extension"
+  ],
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 12.2.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
